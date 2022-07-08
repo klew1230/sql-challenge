@@ -1,6 +1,0 @@
-DROP TABLE dept_manager CASCADE;
-DROP TABLE dept_emp CASCADE;
-DROP TABLE titles CASCADE;
-DROP TABLE departments CASCADE;
-DROP TABLE employees CASCADE;
-DROP TABLE salaries CASCADE;
